@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
-  namespace: bgd
+  namespace: gitops
 spec:
   replicas: 1
   selector:
